@@ -1,0 +1,54 @@
+{
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://data.gov.cz/zdroj/datové-sady/https---data.army.cz-api-3-action-package_show-id-smlouvy-uzavřené-na-tendermarket-tender-arena",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Smlouvy uzavřené na TENDERMARKET a Tender arena"
+  },
+  "popis": {
+    "cs": "archivní data - smlouvy uzavřené na TENDERMARKET a Tender arena.\r\n"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "smlouva"
+    ],
+    "en": []
+  },
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [],
+  "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Eva Hanzalová"
+    },
+    "e-mail": "mailto:hanzalovae@army.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/60162694",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://data.gov.cz/zdroj/datové-sady/https---data.army.cz-api-3-action-package_show-id-smlouvy-uzavřené-na-tendermarket-tender-arena/distribuce/0",
+      "název": {
+        "cs": "Tender arena 2012-2019"
+      },
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://data.army.cz/sites/default/files/1.7.2012%20-%2030.11.2019.csv",
+      "přístupové_url": "https://data.army.cz/sites/default/files/1.7.2012%20-%2030.11.2019.csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
+    }
+  ]
+}
