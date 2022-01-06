@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://data.gov.cz/zdroj/datové-sady/https---data.army.cz-api-3-action-package_show-id-smlouvy-uzavřené-na-tendermarket-tender-arena",
+  "iri": "https://raw.githubusercontent.com/opendata-mocr/lkod-min/main/datové-sady/Smlouvy uzavřené na TENDERMARKET a Tender arena.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Smlouvy uzavřené na TENDERMARKET a Tender arena"
@@ -34,7 +34,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://data.gov.cz/zdroj/datové-sady/https---data.army.cz-api-3-action-package_show-id-smlouvy-uzavřené-na-tendermarket-tender-arena/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mocr/lkod-min/main/datové-sady/Smlouvy uzavřené na TENDERMARKET a Tender arena.jsonld/distribuce/0",
       "název": {
         "cs": "Tender arena 2012-2019"
       },
